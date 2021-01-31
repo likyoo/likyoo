@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a first-year master's student in the College of Computer Science and Engineering, Shandong University of Science and Technology.
+
+My research interests are in computer vision and remote sensing image process.
+
+📫 E-mail: likyoo@sdust.edu.cn
+
 <!--
 **likyoo/likyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
