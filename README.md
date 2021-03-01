@@ -4,7 +4,9 @@ I am a first-year master's student in the College of Computer Science and Engine
 
 My research interests are in computer vision and remote sensing image process.
 
-📫 E-mail: likyoo@sdust.edu.cn
+📫 E-mail: likyoo@sdust.edu.cn 
+
+ 💬 **I am looking for internships related to CV and DL**
 
 <!--
 **likyoo/likyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
