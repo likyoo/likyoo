@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a first-year master student in the College of Computer Science and Engineering, Shandong University of Science and Technology.
+I am a first-year Master student in the College of Computer Science and Engineering, Shandong University of Science and Technology.
 
 My research interests are in computer vision and remote sensing image process.
 
