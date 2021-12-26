@@ -1,3 +1,13 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=likyoo" alt="likyoo" /> </p>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+</p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=likyoo&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="likyoo" /></p>
+
 ### Hi there 👋
 
 I am a 2nd year master's student in the College of Computer Science and Engineering, Shandong University of Science and Technology.
@@ -21,4 +31,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
