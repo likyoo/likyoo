@@ -16,9 +16,11 @@ My research interests are in computer vision, remote sensing image process and M
 
 📫 E-mail: likyoo@sdust.edu.cn 
 
+<!--
+
  💬 **I am looking for internships related to CV and DL**
 
-<!--
+
 **likyoo/likyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
