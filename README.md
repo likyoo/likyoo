@@ -10,7 +10,7 @@
 
 ### Hi there 👋
 
-I am a 2nd year master's student in the College of Computer Science and Engineering, Shandong University of Science and Technology.
+I am a master's student in the College of Computer Science and Engineering, Shandong University of Science and Technology.
 
 My research interests are in computer vision, remote sensing image process and ML system.
 
