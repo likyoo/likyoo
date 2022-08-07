@@ -6,7 +6,12 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
 </p>
 
+<!--
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=likyoo&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="likyoo" /></p>
+-->
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=likyoo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likyoo&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ### Hi there 👋
 
@@ -15,6 +20,7 @@ I am a master's student in the College of Computer Science and Engineering, Shan
 My research interests are in computer vision, remote sensing image process and ML system.
 
 📫 E-mail: likyoo@sdust.edu.cn 
+
 
 <!--
 
