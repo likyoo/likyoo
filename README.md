@@ -13,7 +13,6 @@
 
 My research interests are in computer vision, image process and ML system.
 
-**我正在寻找读博机会** 🤗🤗🤗
 
 📫 E-mail: likyoo@sdust.edu.cn 
 
