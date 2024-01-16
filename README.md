@@ -5,18 +5,24 @@
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
 </p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=likyoo&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="likyoo" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-greatv.vercel.app/api?username=likyoo&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="likyoo" /></p>
 
 
 ### Hi there 👋
 
-My research interests are in computer vision, image process and ML system.
+My research interests are in computer vision, vision-language model and remote sensing image processing.
 
 Page: https://likyoo.github.io/
 
-<!--📫 E-mail: likyoo@sdust.edu.cn -->
 
+
+### Github Contributions
+
+![](https://raw.githubusercontent.com/likyoo/likyoo/output/github-contribution-grid-snake.svg)
+
+
+
+<!--📫 E-mail: likyoo@sdust.edu.cn -->
 
 <!--
 
